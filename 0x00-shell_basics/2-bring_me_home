@@ -1,2 +1,2 @@
-cd ~user_name
-
+#!/bin/bash
+cd ~julien
