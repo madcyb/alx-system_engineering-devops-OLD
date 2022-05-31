@@ -1,0 +1,1 @@
+This is readme file for task 0x02-shell_IO
